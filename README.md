@@ -1,4 +1,4 @@
-"""# Prática Nível 5 - Comunicação Cliente-Servidor com Java Sockets
+# Prática Nível 5 - Comunicação Cliente-Servidor com Java Sockets
 
 ## 🎯 Objetivo
 Desenvolver um sistema distribuído em Java com as seguintes funcionalidades:
